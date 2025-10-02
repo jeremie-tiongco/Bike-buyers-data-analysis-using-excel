@@ -1,1 +1,3 @@
-This project analyzes customer demographics and purchasing behavior to identify key factors influencing bike purchases. Using Excel, I performed data cleaning, pivot table analysis, and dashboard creation to uncover insights such as the impact of income, education, occupation, and commute distance on bike buying decisions. The final dashboard provides a clear visualization of trends, helping businesses better understand their target customers and optimize marketing strategies.
+# This project is for practice purpose
+
+I copy this from a youtube video [Watch the demon on Youtube] (https://www.youtube.com/watch?v=opJgMj1IUrc&t=2325s)
